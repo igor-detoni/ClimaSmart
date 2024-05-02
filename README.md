@@ -10,11 +10,11 @@ Inserir o nome da cidade desejada para que o sistema busque dentro da API e exib
 
 - 2. Instale as Dependências:
 Vá até o diretório do projeto clonado usando o terminal e certifique-se de que você está na raiz do projeto. Em seguida, execute o seguinte comando para instalar as dependências do projeto:
-<npm install>
+''' npm install '''
 
 - 3. Execute o aplicativo:
 Execute o seguinte comando no terminal:
-<npm start>
+´´´ npm start ´´´
 
 - 4. Visualize o aplicativo:
 Após executar o comando para iniciar, o terminal exibirá um QR code que você pode escanear com o aplicativo Expo Go no seu dispositivo móvel e rodar a aplicação.
