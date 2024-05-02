@@ -10,6 +10,7 @@ Inserir o nome da cidade desejada para que o sistema busque dentro da API e exib
 
 - 2. Instale as Dependências:
 Vá até o diretório do projeto clonado usando o terminal e certifique-se de que você está na raiz do projeto. Em seguida, execute o seguinte comando para instalar as dependências do projeto:
+
 ``` npm install ```
 
 - 3. Execute o aplicativo:
